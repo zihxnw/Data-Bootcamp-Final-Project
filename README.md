@@ -7,4 +7,4 @@ Link to presentation video: https://drive.google.com/file/d/1Y8oOh5LbFIoBNtzbO9K
 
 Link to presentation slides: https://thinkstratuspitchdeck.my.canva.site/data-science-project
 
-We have instructions on how to run our code in the document. Our code, when run, includes the heatmap visualization and KNN model. The heatmap can also be viewed in our presentation which we linked above. Thank you for the semester have a wonderful break!
+We have instructions on how to run our code in the document. Our visualization code (the separate notebook), when run, includes the heatmap visualization and KNN model. The heatmap can also be viewed in our presentation, which we linked above. Thank you for the semester. Have a wonderful break!
